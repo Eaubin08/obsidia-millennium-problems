@@ -1,0 +1,20 @@
+{
+  "run_id": "bsd_full_1761175841",
+  "date": "2025-10-22T23:30:41Z",
+  "problem": "BSD",
+  "params": {
+    "curves": [
+      "11a1",
+      "37a1"
+    ],
+    "prec": 60,
+    "seed": 42
+  },
+  "outputs": [
+    {
+      "path": "bsd_full_results.csv",
+      "sha256": "4788322f25547e19cd7e63125bc45dd6335bcbad73172a25966466664dd6cdcb"
+    }
+  ],
+  "notes": "Numeric baseline for BSD; for rigorous checks install PARI/SAGE and adapt."
+}

@@ -1,0 +1,21 @@
+{
+  "run_id": "ym_full_1761176571",
+  "date": "2025-10-22T23:42:51Z",
+  "problem": "YangMills",
+  "params": {
+    "L": 12,
+    "beta": 2.0,
+    "seed": 42
+  },
+  "outputs": [
+    {
+      "path": "ym_observables.csv",
+      "sha256": "08ffdb7c4cfac69e76d76f11a3f6e49d20b071a074cd3d92269b32f7aa6f5670"
+    },
+    {
+      "path": "correlator.png",
+      "sha256": "802385141f158806d2aefa1dcbe25eb8df38ef4543ea60ad275c0a311a41483d"
+    }
+  ],
+  "notes": "Toy lattice baseline"
+}

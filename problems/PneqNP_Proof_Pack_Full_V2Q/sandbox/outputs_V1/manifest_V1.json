@@ -1,0 +1,9 @@
+{
+  "suite": "PneqNP_V1",
+  "comment": "Energy delta under reduction",
+  "timestamp": "2025-10-22T23:36:17",
+  "files_sha256": {
+    "pneqnp_energy_deltas.csv": "7c33dc1a0af4aff79c14b69a26494bb1c20bd963d1573e321489731447b59b0a",
+    "manifest_V1.json": "5895a2f615aa54a10b6c76f1f824da062bdf299a52fb779c03a1b1887ad7944d"
+  }
+}

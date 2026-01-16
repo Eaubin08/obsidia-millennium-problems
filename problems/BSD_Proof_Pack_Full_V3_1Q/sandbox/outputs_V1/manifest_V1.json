@@ -1,0 +1,8 @@
+{
+  "suite": "BSD_V1",
+  "comment": "Order estimation synthetic test",
+  "timestamp": "2025-10-22T23:29:10",
+  "files_sha256": {
+    "bsd_order_estimates.csv": "847a3f79bc39e7c2b9d09e607ff1896aa4eff99f2a4290b48b465ac96f51b290"
+  }
+}

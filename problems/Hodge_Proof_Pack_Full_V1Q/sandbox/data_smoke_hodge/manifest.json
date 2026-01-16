@@ -1,0 +1,21 @@
+{
+  "run_id": "hodge_full_1761176541",
+  "date": "2025-10-22T23:42:21Z",
+  "problem": "Hodge",
+  "params": {
+    "n": 64,
+    "samples": 50,
+    "seed": 3
+  },
+  "outputs": [
+    {
+      "path": "hodge_intersections.csv",
+      "sha256": "cc6d069e7a87ea36ce41317bdfc6b3d7cd19d162a08063c2e2bc7391eb0a1313"
+    },
+    {
+      "path": "hodge_hist.png",
+      "sha256": "0a0740240e69339f4654243f18442251d387dd43c597edb61678648f4c0c9637"
+    }
+  ],
+  "notes": "Positivity baseline (toy)"
+}

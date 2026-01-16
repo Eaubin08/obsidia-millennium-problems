@@ -1,0 +1,14 @@
+
+name: obsidia_pack
+channels: [conda-forge]
+dependencies:
+  - python=3.10
+  - numpy
+  - scipy
+  - mpmath
+  - pandas
+  - matplotlib
+  - tqdm
+  - pip
+  - pip:
+    - pycryptodome

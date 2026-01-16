@@ -1,0 +1,25 @@
+{
+  "run_id": "bsd_full_1761176161",
+  "date": "2025-10-22T23:36:01Z",
+  "problem": "BSD",
+  "params": {
+    "curves": [
+      "11a1",
+      "37a1",
+      "389a1",
+      "5077a1"
+    ],
+    "prec": 120,
+    "seed": 7
+  },
+  "outputs": [
+    {
+      "path": "bsd_full_results.csv",
+      "sha256": "ce5adb79eddbf8128094e1bfddc5e839fa5a5fdd02aaa54333a38577d8e20241"
+    },
+    {
+      "path": "bsd_full_results_V2.csv"
+    }
+  ],
+  "notes": "BSD V2 numeric witnesses (toy, differentiated per-curve). For rigorous values, use PARI/Sage."
+}

@@ -1,0 +1,14 @@
+{
+  "problem": "Riemann",
+  "mode": "quick",
+  "date": "2025-10-22T23:46:46Z",
+  "params": {
+    "seed": 1
+  },
+  "outputs": [
+    {
+      "path": "riemann_quick_results.csv"
+    }
+  ],
+  "notes": "Quick sanity run (no heavy zero computations). Use test_riemann_full.py for full run."
+}

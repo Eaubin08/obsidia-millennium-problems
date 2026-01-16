@@ -1,0 +1,27 @@
+{
+  "run_id": "ns_full_1761176655",
+  "date": "2025-10-22T23:44:15Z",
+  "problem": "NavierStokes",
+  "params": {
+    "res": 32,
+    "nu": 0.01,
+    "T": 0.02,
+    "steps": 6,
+    "cfl": 0.3
+  },
+  "outputs": [
+    {
+      "path": "ns_timeseries.csv",
+      "sha256": "306205a5fff5b37d219f2404fec733a06a604d5a97ac5fd1f3cc11786fdbddee"
+    },
+    {
+      "path": "energy.png",
+      "sha256": "00a0286ac8924c7c3675b6172dfdb00b80f5b24cde90787cd1d4e1c69c586c70"
+    },
+    {
+      "path": "enstrophy.png",
+      "sha256": "dbb7140e178d9ace459880b85cb1e2e6dd4ac51695538031b2df20e36aea59e0"
+    }
+  ],
+  "notes": "Taylor-Green vortex baseline"
+}

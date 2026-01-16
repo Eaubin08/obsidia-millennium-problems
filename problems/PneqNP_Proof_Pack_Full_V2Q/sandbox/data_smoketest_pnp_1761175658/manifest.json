@@ -1,0 +1,21 @@
+{
+  "run_id": "pneqnp_full_1761175662",
+  "date": "2025-10-22T23:27:42Z",
+  "problem": "PneqNP",
+  "params": {
+    "nodes": 64,
+    "graphs": 3,
+    "seed": 1
+  },
+  "outputs": [
+    {
+      "path": "pneqnp_full_results.csv",
+      "sha256": "0729ec5df596e50d7f97a9d7713f01623a55875328bfd57b47cd2519a5f2ee7b"
+    },
+    {
+      "path": "pf_variance_hist.png",
+      "sha256": "c561e777fbfbc99a765d92c42a9f3789deaff9920d7546fd0208ab02a889e8df"
+    }
+  ],
+  "notes": "Full automatic PF_inf + expander baseline"
+}
